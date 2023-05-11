@@ -28,5 +28,9 @@
   "devDependencies": {
     "del-cli": "^5.0.0",
     "parcel": "^2.8.3"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "npm": "9.6.6"
   }
 }
