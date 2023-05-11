@@ -1,4 +1,4 @@
-# TextAlive App API basic example
+# TextAlive App API basic example + Volta
 
 API チュートリアル「1. 開発の始め方」のサンプルコードです。
 発声中の歌詞を単語単位で表示します。
@@ -20,7 +20,7 @@ TextAlive App API で開発されたWebアプリケーションは、（特定�
 
 ## 開発
 
-[Node.js](https://nodejs.org/) をインストールしている環境で以下のコマンドを実行すると、開発用サーバが起動します。
+[Volta](https://docs.volta.sh/) をインストールしている環境でリポジトリをクローンし以下のコマンドを実行すると、開発用サーバが起動します。
 
 ```sh
 npm install
@@ -44,4 +44,5 @@ TextAlive App API は、音楽に合わせてタイミングよく歌詞が動�
 TextAlive App API について詳しくはWebサイト [TextAlive for Developers](https://developer.textalive.jp/) をご覧ください。
 
 ---
-https://github.com/TextAliveJp/textalive-app-basic
+
+Fork form: <https://github.com/TextAliveJp/textalive-app-basic>
