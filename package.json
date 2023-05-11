@@ -19,9 +19,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TextAliveJp/textalive-app-basic/issues"
+    "url": "https://github.com/nemuki/textalive-app-basic/issues"
   },
-  "homepage": "https://github.com/TextAliveJp/textalive-app-basic#readme",
+  "homepage": "https://github.com/nemuki/textalive-app-basic#readme",
   "dependencies": {
     "textalive-app-api": "^0.3.2"
   },
